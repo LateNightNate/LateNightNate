@@ -162,3 +162,39 @@ h2   {
   left: 200px;
   top: 170px;
 }
+
+/* Contact form */
+.contact-box{
+width: 500px;
+background-color: #fff;
+box-shadow: 0 0 20px 0 #999;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+position: absolute;
+}
+form
+{
+  margin:35px;
+}
+.input-field
+{
+  width: 400px;
+  height: 40px;
+  margin-top: 20px;
+  padding-left: 10px;
+  border: 1px soid #777;
+  border-radius: 14px;
+  outline: none;
+}
+
+table {
+  border-collapse: collapse;
+  border: 5px solid #D1C3B7;
+  width: 100%;
+}
+td {
+  width: 50%;
+  height: 2em;
+  border: 1px solid #ccc;
+}
