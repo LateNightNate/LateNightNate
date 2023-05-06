@@ -40,6 +40,10 @@ h2   {
     font-size: 20px;
        }
 
+h4{
+  text-align: center;
+}
+
 /* Background color to the top navigation bar */
 .nav {
   overflow: hidden;
